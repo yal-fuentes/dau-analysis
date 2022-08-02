@@ -1,0 +1,5 @@
+Attached is some fictitious game DAU data.
+
+Your task is to give a 5-10 minute presentation on any interesting stories you find in the data.
+
+The audience for the presentation will be other game analysts.
